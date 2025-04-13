@@ -142,7 +142,7 @@ export default function About() {
         <ul className="list-disc pl-5 text-blue-400 space-y-2">
           <li>
             <a
-              href="https://github.com/your-username/heart-disease-frontend"
+              href="https://github.com/toshankanwar/Heart-Failure-Prediction/tree/main/development/frontend"
               target="_blank"
               rel="noopener noreferrer"
               className="underline"
@@ -152,7 +152,7 @@ export default function About() {
           </li>
           <li>
             <a
-              href="https://github.com/your-username/heart-disease-backend"
+              href="https://github.com/toshankanwar/Heart-Failure-Prediction/tree/main/development/backend"
               target="_blank"
               rel="noopener noreferrer"
               className="underline"
