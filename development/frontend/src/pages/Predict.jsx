@@ -30,7 +30,7 @@ export default function Predict() {
     e.preventDefault();
     try {
       // Make the prediction request
-      const res = await axios.post("https://hfailure-backend-3.onrender.com", form);
+      const res = await axios.post("https://hfailure-backend-3.onrender.com/predict", form);
       const predictionData = res.data;
       setResult(predictionData);
 
